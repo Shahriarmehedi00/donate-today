@@ -25,11 +25,11 @@
      color: aliceblue;
  }
 
+ .para-graph {
+     color: gray;
+     font-weight: 700;
 
-
-
-
-
+ }
 
  .anchor-btn {
      background-image: linear-gradient(orange, yellow);
@@ -39,4 +39,60 @@
      margin-top: 100px;
 
 
+ }
+
+ /* dOnate section */
+
+
+ .amount-part {
+     margin-top: 100px;
+ }
+
+ .donation-amount {
+     display: flex;
+     justify-content: center;
+
+ }
+
+ .donation-intro {
+     text-align: center;
+ }
+
+ .amount-number {
+     margin: 30px;
+
+     box-sizing: border-box;
+     background-color: aliceblue;
+     padding: 25px;
+     border-radius: 5px;
+ }
+
+ #bold-amount {
+     background-color: rgb(245, 237, 237);
+     color: indianred;
+     border: 2px solid indianred;
+
+ }
+
+
+ input {
+
+     border-top-style: hidden;
+     border-right-style: hidden;
+     border-left-style: hidden;
+     border-bottom-style: groove;
+
+     text-align: center;
+     width: 700px;
+     margin-bottom: 20px;
+
+
+ }
+
+ .no-outline:focus {
+     outline: none;
+ }
+
+ .others-amount {
+     text-align: center;
  }
