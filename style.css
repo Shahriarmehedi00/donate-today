@@ -2,6 +2,9 @@
      font-family: 'Poppins', sans-serif;
  }
 
+
+ /* Top -Part  */
+
  .top-section {
      background-image: linear-gradient(rgb(12 12 12/33%), rgb(16 13 13/93%)), url(images/donation4.jpg);
      background-size: 100%;
@@ -41,7 +44,7 @@
 
  }
 
- /* dOnate section */
+ /* Donate Today/2nd container */
 
 
  .amount-part {
@@ -99,7 +102,7 @@
 
 
 
- /* Donation criteria section */
+ /* Donation Criteria/Third container */
 
  .donation-classification {
      margin-top: 100px;
@@ -142,21 +145,18 @@
  }
 
 
- .social-img {
-     /* width: 20%; */
-     height: 100px;
-     background-color: rgb(246, 232, 232);
-     color: red;
-     width: 100%;
-     border: 2px solid grey;
-     margin: 5px;
-
- }
+ /* Feel free to check/fourth Container */
 
  .social-div {
      margin-top: 100px;
      display: flex;
      background-color: gray;
+ }
+
+ #social-intro {
+     width: 50%;
+     margin-left: 40px;
+     margin-top: 30px;
  }
 
  .img-div {
@@ -167,16 +167,27 @@
 
  }
 
- #social-intro {
-     width: 50%;
-     margin-left: 40px;
-     margin-top: 30px;
+ .img-item {
+     /* width: 20%; */
+     height: 100px;
+     background-color: rgb(246, 232, 232);
+     color: red;
+     width: 100%;
+     border: 2px solid grey;
+     margin: 5px;
+
  }
 
 
 
 
 
+
+
+
+
+
+ /* Get Me Updated/Fifth Container */
 
 
  .subscribe-section {
@@ -196,12 +207,6 @@
      padding: 50px;
      margin-left: 200px;
      margin-right: 200px;
-
-
-
-
-
-
  }
 
  #subscribe-btn {
@@ -209,6 +214,9 @@
 
  }
 
+
+
+ /* Footer */
 
  .footer-sec {
      margin-top: 200px;
@@ -222,6 +230,9 @@
      padding-bottom: 60px;
      height: 50px;
  }
+
+
+
 
  #footer-heading {
 
