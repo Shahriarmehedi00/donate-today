@@ -167,3 +167,29 @@
      background-image: linear-gradient(orange, yellow);
 
  }
+
+
+ .footer-sec {
+     margin-top: 200px;
+ }
+
+ footer {
+
+     text-align: center;
+     background-color: black;
+     padding-top: 20px;
+     padding-bottom: 60px;
+     height: 50px;
+ }
+
+ #footer-heading {
+
+     font-style: italic;
+     color: brown;
+ }
+
+ #footer-ending {
+     color: grey;
+     font-size: x-small;
+
+ }
